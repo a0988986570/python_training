@@ -1,2 +1,8 @@
+1、
 s=set("Hello") #set(字串) 
 =>把字串拆解成集合，在透過in或not in去判斷元素是否存在=>可以運用到很多地方(切記) {}
+
+2、
+往後對程式的規劃module非常重要
+=>相關觀念在module.py
+=>https://www.youtube.com/watch?v=Et0DjY2cGiE&t=914s
