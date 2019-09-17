@@ -11,3 +11,9 @@ s=set("Hello") #set(字串)
 =>packge內要有一個__init__.py檔才能成為封包，否則即為普通資料夾
 =>相關觀念在 python_封包 資料夾
 =>https://www.youtube.com/watch?v=GGp-7VHgsKk
+
+3、
+統計模組 
+=>相關觀念在 python_亂數與統計模組 資料夾
+=>平均數、中位數、標準差、常態分配等各種統計模組，需多加自行研究
+=>標準差、常態分配較複雜，多研究
