@@ -17,3 +17,8 @@ s=set("Hello") #set(字串)
 =>相關觀念在 python_亂數與統計模組 資料夾
 =>平均數、中位數、標準差、常態分配等各種統計模組，需多加自行研究
 =>標準差、常態分配較複雜，多研究
+
+4、
+Json的檔案存取或複寫自行多研究
+=>https://www.youtube.com/watch?v=C4OkV6DrVRs&t=1159s
+=>相關觀念在 python_檔案操作 資料夾
