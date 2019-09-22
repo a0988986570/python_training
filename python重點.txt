@@ -32,3 +32,10 @@ Json的檔案存取或複寫自行多研究
 =>https://www.youtube.com/watch?v=uPKgQ3FoVtY&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk&index=16
 =>https://www.youtube.com/watch?v=Lr5N2r1rmtM&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk&index=17
 =>https://www.youtube.com/watch?v=MZtTClJ74NU&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk&index=18
+
+6.
+Pandas
+1.Series
+2.DataFrame
+=>DataFrame有很多進階用法，需自行學習
+=>相關觀念在 python_pandas 資料夾
