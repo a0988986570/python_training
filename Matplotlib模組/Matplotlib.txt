@@ -28,6 +28,6 @@ explode:每一個項目突出數值組成的串列，預設為0
 labeldistance:項目標題與圓心的距離是半徑的多少倍
 autopct:項目百分比格式，語法(%格式%%)，例如(%2.1f%%)表示整數2位數，小數1位數
 shadow:True有陰影，False沒有
-startangle:繪圖起始角度
+startangle:繪圖起始角度，並以逆時針繪圖
 pctdistance:百分比文字與圓心的距離是半徑的多少倍
 模組名稱.axis("equal")=>正圓型
